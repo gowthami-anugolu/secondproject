@@ -3,7 +3,7 @@
 
 	<test name="sample">
 		<classes>			
-			<class name="personal.gitexample.sample"></class>
+			<class name="personal.gitexample.Verification"></class>
 		</classes>	
 	</test>
 	
