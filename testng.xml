@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="gitexample">
+
+	<test name="sample">
+		<classes>			
+			<class name="personal.gitexample.sample"></class>
+		</classes>	
+	</test>
+	
+</suite>
